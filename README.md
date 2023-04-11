@@ -35,8 +35,7 @@
 
 ### Certifications
 
-[JavaScript ✅](https://www.sololearn.com/certificates/CC-99SKEUSA)
-[SQL ✅]()
+[JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL]()
 --
 
 ### Contact Me 
