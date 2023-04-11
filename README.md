@@ -1,4 +1,4 @@
-[![Header]()](http://www.linkedin.com/in/maksim-ozhegov)
+[![Header](https://github.com/ozhegov/ozhegov/blob/main/assets/GIT%20banner.png)](http://www.linkedin.com/in/maksim-ozhegov)
 ## I'm a QA Engineer
 
 [Link to my CV 👈🏼]()
