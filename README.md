@@ -26,7 +26,7 @@
 
 ### Test artifacts
 
-- [Theory of Testing]()
+- [Testing Theory](https://github.com/ozhegov/Testing-Theory)
 - [Test Design Techniques]()
 - [Test Documentation](https://github.com/ozhegov/Test-Documentation)
 - [API testing]()
