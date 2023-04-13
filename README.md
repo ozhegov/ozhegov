@@ -30,7 +30,7 @@
 - [Test Design Techniques](https://github.com/ozhegov/Test-Design-Techniques)
 - [Test Documentation](https://github.com/ozhegov/Test-Documentation)
 - [API testing]()
-- [Database Testing]()
+- [Database Testing](https://github.com/ozhegov/Database-Testing)
 - [Sniffers]()
 
 ### Certifications
