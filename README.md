@@ -35,8 +35,8 @@
 ### Certifications
 
 [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG)
---
 
+---
 ### Contact Me 
 
 [![Header](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=5662f6)](https://discordapp.com/users/ozhegov#9689)
