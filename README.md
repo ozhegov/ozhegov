@@ -29,9 +29,8 @@
 - [Testing Theory](https://github.com/ozhegov/Testing-Theory)
 - [Test Design Techniques](https://github.com/ozhegov/Test-Design-Techniques)
 - [Test Documentation](https://github.com/ozhegov/Test-Documentation)
-- [API testing]()
+- [API testing](https://github.com/ozhegov/API-Testing)
 - [Database Testing](https://github.com/ozhegov/Database-Testing)
-- [Sniffers]()
 
 ### Certifications
 
