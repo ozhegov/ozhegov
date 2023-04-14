@@ -20,9 +20,6 @@
 ![Header](https://img.shields.io/badge/Azure_Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0078d7)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=0074d0)
-![Header](https://img.shields.io/badge/YouTrack-090909?style=for-the-badge&logo=youtrack&logoColor=4aa73c)
-![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
-![Header](https://img.shields.io/badge/Xcode-090909?style=for-the-badge&logo=xcode&logoColor=4aa73c)
 
 ### Test artifacts
 
