@@ -6,7 +6,7 @@
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=f0db4f)
-![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=4aa73c)
+![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=2f81b9)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/SoapUi-090909?style=for-the-badge&logo=soapui&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
