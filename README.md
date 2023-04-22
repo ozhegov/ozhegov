@@ -31,7 +31,7 @@
 
 ### Certifications
 
-[JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG)
+[JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW)
 
 ---
 ### Contact Me 
