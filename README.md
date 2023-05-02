@@ -1,11 +1,12 @@
 [![Header](https://github.com/ozhegov/ozhegov/blob/main/assets/banner.png)](http://www.linkedin.com/in/maksim-ozhegov)
 ## I'm a QA Engineer
 
-[Link to my CV (RU)](https://drive.google.com/file/d/1HKJFu2QlKKNvA4_dVMcHRckC8AmX_0pO/view?usp=sharing)👈🏼
+[Link to my CV (RU)](https://drive.google.com/file/d/1HKJFu2QlKKNvA4_dVMcHRckC8AmX_0pO/view?usp=sharing)|[(EN)](https://drive.google.com/file/d/149WsTTPjLZKGgErs2JYO4wT-2Q5iY21C/view?usp=sharing)👈🏼
 --
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=f0db4f)
+![Header](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=ffffff)
 ![Header](https://img.shields.io/badge/VisualStudioCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=2f81b9)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/SoapUi-090909?style=for-the-badge&logo=soapui&logoColor=f76935)
@@ -15,11 +16,13 @@
 ![Header](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f05033)
 ![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
+![Header](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=00af42)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/Azure_Devops-090909?style=for-the-badge&logo=azuredevops&logoColor=0078d7)
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=4aa73c)
 ![Header](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=0074d0)
+![Header](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=0c62dc)
 
 ### Test artifacts
 
@@ -31,11 +34,12 @@
 
 ### Certifications
 
-[JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW)
+[Functional testing](https://drive.google.com/file/d/1VdWyfk5wJm07I09rRb8f0iy8hidc6OBl/view?usp=sharing) | [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW)
 
 ---
 ### Contact Me 
 
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/ozhegov)
 [![Header](https://img.shields.io/badge/Discord-090909?style=for-the-badge&logo=discord&logoColor=5662f6)](https://discordapp.com/users/ozhegov#9689)
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](http://www.linkedin.com/in/maksim-ozhegov)
 
