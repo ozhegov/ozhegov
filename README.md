@@ -1,7 +1,7 @@
 [![Header](https://github.com/ozhegov/ozhegov/blob/main/assets/banner.png)](http://www.linkedin.com/in/maksim-ozhegov)
 ## I'm a QA Engineer
 
-[Link to my CV (RU)](https://drive.google.com/file/d/1HKJFu2QlKKNvA4_dVMcHRckC8AmX_0pO/view?usp=sharing)|[(EN)](https://drive.google.com/file/d/149WsTTPjLZKGgErs2JYO4wT-2Q5iY21C/view?usp=sharing)👈🏼
+[Link to my CV (RU)](https://drive.google.com/file/d/1ApQg2T_JgcwttU01-Iv79cguQMlf4-qW/view?usp=sharing)|[(EN)](https://drive.google.com/file/d/1jL6TZkdh-9BZjZkoLKyJTi58-jj199OB/view?usp=sharing)👈🏼
 --
 
 ### Language and Tools
@@ -34,7 +34,7 @@
 
 ### Certifications
 
-[Functional testing](https://drive.google.com/file/d/1VdWyfk5wJm07I09rRb8f0iy8hidc6OBl/view?usp=sharing) | [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW)
+[Functional testing](https://drive.google.com/file/d/1VdWyfk5wJm07I09rRb8f0iy8hidc6OBl/view?usp=sharing) | [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW) | [API testing](https://stepik.org/cert/2054405)
 
 ---
 ### Contact Me 
