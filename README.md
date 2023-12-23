@@ -1,7 +1,7 @@
 [![Header](https://github.com/ozhegov/ozhegov/blob/main/assets/banner.png)](http://www.linkedin.com/in/maksim-ozhegov)
 ## I'm a QA Engineer
 
-[Link to my CV (RU)](https://drive.google.com/file/d/1ApQg2T_JgcwttU01-Iv79cguQMlf4-qW/view?usp=sharing)|[(EN)](https://drive.google.com/file/d/1jL6TZkdh-9BZjZkoLKyJTi58-jj199OB/view?usp=sharing)👈🏼
+[Link to my CV (RU)](https://drive.google.com/file/d/1PQPEkAPp_uKSGR7jdaRCjuJqJLW_W2Eb/view?usp=share_link)👈🏼
 --
 
 ### Language and Tools
