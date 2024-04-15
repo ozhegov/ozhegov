@@ -37,7 +37,7 @@
 
 ### Certifications
 
-[Functional testing](https://drive.google.com/file/d/1VdWyfk5wJm07I09rRb8f0iy8hidc6OBl/view?usp=sharing) | [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW) | [CSS](https://www.sololearn.com/certificates/CC-AYIXFEZ6) | [API testing](https://stepik.org/cert/2054405) | [Testing skills tests](https://v2.coreapp.ai/certificate/pdf/646b93028c8921a689477d42)
+[ISTQB Certified Tester Foundation Level](https://drive.google.com/file/d/1VjgBD7u8wU9qgtkkL1flbF-oNzeg1hKs/view?usp=sharing) | [Functional testing](https://drive.google.com/file/d/1VdWyfk5wJm07I09rRb8f0iy8hidc6OBl/view?usp=sharing) | [JavaScript](https://www.sololearn.com/certificates/CC-99SKEUSA) | [SQL](https://www.sololearn.com/certificates/CC-ECFLVPPG) | [HTML](https://www.sololearn.com/certificates/CC-I53V7CBW) | [CSS](https://www.sololearn.com/certificates/CC-AYIXFEZ6) | [API testing](https://stepik.org/cert/2054405) | [Testing skills tests](https://v2.coreapp.ai/certificate/pdf/646b93028c8921a689477d42)
 
 ---
 ### Contact Me 
