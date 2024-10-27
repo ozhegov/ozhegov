@@ -31,11 +31,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Header](https://img.shields.io/badge/Appium-%23662d91?style=for-the-badge&logo=appium&logoColor=white)
+[![BrowserStack](https://custom-icon-badges.demolab.com/badge/-BrowserStack-%23e4e4e4?style=for-the-badge&logo=browserstack)](#)
 ![Header](https://img.shields.io/badge/CharlesProxy-%23358c96?style=for-the-badge&logo=charles&logoColor=ffffff)
 ![Header](https://img.shields.io/badge/Jira-2674f2?style=for-the-badge&logo=Jira&logoColor=white)
 [![Allure TestOps](https://custom-icon-badges.demolab.com/badge/-Allure%20TestOps-%23e4e4e4?style=for-the-badge&logo=allure)](#)
 ![Header](https://img.shields.io/badge/Confluence-%23227ffa?style=for-the-badge&logo=confluence&logoColor=white)
 ![Header](https://img.shields.io/badge/Redmine-%23e4e4e4?style=for-the-badge&logo=redmine&logoColor=c61e04)
+
+### Projects
+
+||||
+|--------|----------|----------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=vikunja_tests)](https://github.com/ozhegov/vikunja_tests) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=universe_data_ui_tests)](https://github.com/ozhegov/universe_data_ui_tests) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=universe_data_ui_tests)](https://github.com/ozhegov/universe_data_ui_tests) |
+
+
 
 ### Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozhegov&theme=city_lights)
@@ -59,4 +68,4 @@
 
 [![Header](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ozhegov)
 [![Header](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/maksim-ozhegov)
-
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qa.ozhegov@gmail.com)
