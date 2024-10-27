@@ -40,11 +40,10 @@
 
 ### Projects
 
-||||
-|--------|----------|----------|
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=vikunja_tests)](https://github.com/ozhegov/vikunja_tests) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=universe_data_ui_tests)](https://github.com/ozhegov/universe_data_ui_tests) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=universe_data_ui_tests)](https://github.com/ozhegov/universe_data_ui_tests) |
-
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=vikunja_tests)](https://github.com/ozhegov/vikunja_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=vikunja_tests)](https://github.com/ozhegov/vikunja_tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=vikunja_api_owner_HW)](https://github.com/ozhegov/vikunja_api_owner_HW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ozhegov&repo=qa_guru_27_mobile_testing_HW)](https://github.com/ozhegov/qa_guru_27_mobile_testing_HW)
 
 ### Analytics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ozhegov&theme=city_lights)
